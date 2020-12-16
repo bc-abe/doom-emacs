@@ -1,0 +1,1 @@
+/home/abe/.doom.d/config.el
