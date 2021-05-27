@@ -10,4 +10,4 @@ A couple of things about this repo
 4. The code has comments, but not enough. I'll work on making more comments in the future.
 
 
-Any questions just email me at hey@abepeters.com
+Any questions just [[mailto:hey@abepeters.com][email]] me.
