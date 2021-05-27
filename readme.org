@@ -1,0 +1,13 @@
+#+TITLE: Abe's Doom Emacs Configuration
+
+
+This is my configuration for Doom Emacs. It uses Babel so I can create a config file as an .org file. I make changes to the config.org file and bable updates the config.el file.
+
+A couple of things about this repo
+1. I am not a programmer, I barely know how to use git (although I thinks its awesome). I am mainly a writer meaning I use Emacs almost exclusively in org-mode.
+2. This is mostly for educational purposes, but go ahead a use the parts of it that you want.
+3. If you have a pull request or something similar, I may do it, but I've never done any of that I use git for myself.
+4. The code has comments, but not enough. I'll work on making more comments in the future.
+
+
+Any questions just email me at hey@abepeters.com
